@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... Finance
 - 💞️ I’m looking to collaborate on ... Impactful and learning projects
 - 📫 How to reach me ... kgmaciejny@yahoo.com 
-- ⚡ Fun fact: ... Japan has the highest average iq 
+- ⚡ Fun fact: ... 
 
 <!---
 SweatyPiglet/SweatyPiglet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
